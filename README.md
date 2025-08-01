@@ -28,7 +28,9 @@ PhonebookApp/
 `phonebook.text` should contain entries in the format:
 
 LastName FirstName 123-456-7890
+
 Doe John 800-555-1234
+
 Smith Jane 212-333-4444
 
 
