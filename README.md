@@ -1,6 +1,6 @@
 # 📞 Phonebook App
 
-A simple Java console application that allows users to perform name-based and reverse phone number lookups from a local text file.
+This is a Java console application that allows users to search for contacts by name or phone number using data stored in a local text file. It demonstrates key programming concepts such as object-oriented design, file handling, and exception management.
 
 ## 🧠 Features
 
