@@ -40,11 +40,10 @@ Each line represents one entry with a name and a phone number.
 
 1. Make sure you have **Java 11+** installed.
 2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/phonebook-app.git
+   git clone https://github.com/ShahzadiAiman/phonebook-app.git
    cd phonebook-app
-3. Open the project in IntelliJ (or another IDE).
-4. Run the PhonebookApp.java file.
+4. Open the project in IntelliJ (or another IDE).
+5. Run the PhonebookApp.java file.
 
 ## 🛠️ Technologies Used
 
