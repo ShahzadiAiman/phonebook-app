@@ -10,16 +10,17 @@ A simple Java console application that allows users to perform name-based and re
 - 🧪 Detects duplicate names and phone numbers.
 
 ## 📂 Project Structure
-📁 PhonebookApp/
-├── src/
-│ ├── PhonebookApp.java # Main class with user interface
-│ ├── Phonebook.java # Handles reading entries and lookup logic
-│ ├── PhonebookEntry.java # Represents a phonebook entry
-│ ├── Name.java # Name data class
-│ └── PhoneNumber.java # Phone number data class
-├── phonebook.text # Data file with phonebook entries
-├── .gitignore
-└── README.md
+
+PhonebookApp/
+- src/
+  - PhonebookApp.java       # Main class with user interface
+  - Phonebook.java          # Handles reading entries and lookup logic
+  - PhonebookEntry.java     # Represents a phonebook entry
+  - Name.java               # Name data class
+  - PhoneNumber.java        # Phone number data class
+- phonebook.text            # Data file with phonebook entries
+- .gitignore
+- README.md
 
 
 ## 📝 File Format
